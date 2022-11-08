@@ -1,6 +1,8 @@
 # Sign Up Form
 > This project is intended to give me a chance to flex some of the new items I’ve been absorbing over the past few lessons. This time it’s a sign-up form for an imaginary service.
 
+![sign-up-form](https://user-images.githubusercontent.com/85459676/200446054-dd2974e5-cb5b-4b80-aea9-6c399a5ba122.png)
+
 ## Built With :hammer_and_wrench: 
 
 - **HTML/CSS best practices:** Correct use of tags, elements, properties and syntax.
