@@ -1,0 +1,147 @@
+
+#container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: auto;
+}
+
+body {
+  background-image: url(./tech.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-family: 'poppins', sans-serif;
+}
+
+.container {
+  width: 50%;
+  height: 100vh;
+  background-color: #f1f3f5;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px 10px;
+  margin-top: 0;
+}
+
+.image {
+  width: 60%;
+  height: auto;
+  background-color: rgba(0, 0, 0, 0.274);
+}
+
+.form-container {
+  width: 100%;
+  height: auto;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 2px 5px 15px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+.top {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 50px 0 0 10px;
+}
+
+.top p {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-container h2 {
+  margin-left: 10px;
+}
+
+.form {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#left {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 10px;
+}
+
+#right {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+#left > input {
+  width: 50%;
+  height: 20px;
+  border: 1px solid #8ecae6;
+  margin: 5px 0;
+}
+
+#right > input {
+  width: 50%;
+  height: 20px;
+  border: 1px solid #8ecae6;
+  margin: 5px 0;
+}
+
+#right > label {
+  text-transform: uppercase;
+}
+
+#left > label {
+  text-transform: uppercase;
+}
+
+.btn {
+  width: 25%;
+  height: 2.5em;
+  background-color: #386641;
+  border: none;
+  border-radius: 3px;
+  margin: 15px 10px;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.create-account {
+  font-size: 18px;
+  color: #ffff;
+  font-weight: bold;
+}
+
+.text {
+  margin: 0 10px;
+}
+
+.btn-link {
+  text-decoration: none;
+  color: #386641;
+  font-weight: bold;
+  margin: 0 5px;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}
+
+footer {
+  color: #f8f9fa;
+  font-size: 18px;
+}
+
+footer a {
+  color: inherit;
+}
