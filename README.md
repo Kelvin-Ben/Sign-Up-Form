@@ -9,7 +9,7 @@
 
 ## Live Demo :arrow_forward:
 
- [Click Here]()
+ [Click Here](https://github.com/Kelvin-Ben/Sign-Up-Form)
 
 ## Set Up Guide :page_facing_up: 
 
@@ -42,7 +42,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Acknowledgments
 
-- Hat tip to Unsplash for using there images
+- Hat tip to [Unsplash](https://unsplash.com/) for using there images
 - Inspiration
 - etc
 
